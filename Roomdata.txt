@@ -1,0 +1,8 @@
+105#empty#single#view#sea#s@s.com#15488.0#1/1/2018#1/1/2018#
+40#empty#single#sea_view#level2#m2#200.5#31/12/2018#12/2/2003#
+104#empty#5#view#giza#g@g.com#1250.0#1/1/2018#1/1/2018#
+27#empty#single#sea_view#level2#m2#200.5#2/1/2018#12/2/2003#
+28#empty#single#sea_view#level2#m2#200.5#3/1/2018#12/2/2003#
+29#empty#single#sea_view#level2#m2#200.5#4/1/2018#12/2/2003#
+30#empty#single#sea_view#level2#m2#200.5#5/1/2018#12/2/2003#
+31#empty#single#sea_view#level2#m2#200.5#6/1/2018#12/2/2003#

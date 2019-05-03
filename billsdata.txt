@@ -1,0 +1,7 @@
+1#kareem#1000#1#cash#true#30/12/2018
+2#khaled#2000#2#visa#true#31/12/2018
+3#sameh#4000#5#cash#true#1/1/2019
+4#ziad#2800#1#visa#true#2/1/2019
+5#kareem#1000#8#cash#true#3/1/2019
+6#kareem#1300#4#cash#true#4/1/2019
+7#medaht#1800#3#cash#true#5/1/2019
